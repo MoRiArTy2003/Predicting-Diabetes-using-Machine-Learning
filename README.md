@@ -1,5 +1,5 @@
 **Predicting Diabetes Using Machine Learning**
-/br
+<br />
 This repository contains a machine learning project focused on predicting diabetes based on patient data. The project uses a dataset (contained in diabetes - diabetes.csv) and a Jupyter Notebook (main.ipynb) to perform data preprocessing, exploratory analysis, model training, and evaluation.
 
 Table of Contents:
