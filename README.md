@@ -34,6 +34,12 @@ Follow these steps to set up the project locally:
 ## **About the Project**
 The goal of this project is to leverage machine learning techniques to predict whether a patient has diabetes. The project demonstrates the full pipeline from data cleaning and exploratory data analysis (EDA) to building and evaluating prediction models. Although this is a beginner-to-intermediate level project, it serves as an excellent starting point for those interested in healthcare analytics and predictive modeling.
 
+## 🎥 Project Demonstration
+
+Watch the complete walkthrough of the project, including data preprocessing, model building (KNN), and evaluation:
+
+🔗 **LinkedIn Demo Video:**  
+https://www.linkedin.com/posts/ameya-mhatre3043_machinelearning-internship-knn-activity-7309557359394144256-6URl
 
 ## **Set Up a Virtual Environment (Optional but Recommended):**
 python -m venv venv
